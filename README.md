@@ -3,9 +3,9 @@
 ---
 ---
 - [Survey](#survey)
-- [Models] (#models)
-   - [Metric Monocular depth estimation] (#Metric-Monocular-depth-estimation)
-   - [Relative Monocular depth estimation] (#Relative-Monocular-depth-estimation)
+- [Models](#Models)
+   - [Metric Monocular depth estimation](#Metric-Monocular-depth-estimation)
+   - [Relative Monocular depth estimation](#Relative-Monocular-depth-estimation)
 - [Datasets](#datasets)
 - [Challenges and workshops](#challenges-and-workshops)
 - 
