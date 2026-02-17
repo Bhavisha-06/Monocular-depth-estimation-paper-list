@@ -1,6 +1,6 @@
-# A personal list of papers and resources for monocular depth estimation (not complete yet)
+#Monocular-depth-estimation-paper-list
+A personal list of papers and resources for monocular depth estimation (not complete yet)
 
----
 ---
 - [Survey](#survey)
 - [Models](#Models)
