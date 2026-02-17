@@ -23,7 +23,7 @@ A personal list of papers and resources for monocular depth estimation (not comp
    * MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision [[CVPR 2025](https://arxiv.org/pdf/2410.19115)] [[]()]
      
      
-   * Depth Anything V2 [[arXiv 2024](https://arxiv.org/pdf/2406.09414)] [[]()]
+   * Depth Anything V2 [[NeurIPS 2024](https://arxiv.org/pdf/2406.09414)] [[]()]
    * UniDepth: Universal Monocular Metric Depth Estimation [[CVPR 2024](https://arxiv.org/pdf/2403.18913)] [[]()]
    * DUSt3R: Geometric 3D Vision Made Easy [[CVPR 2024](https://arxiv.org/pdf/2312.14132)] [[]()]
    * Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data [[CVPR 2024](https://arxiv.org/pdf/2401.10891)] [[]()]
