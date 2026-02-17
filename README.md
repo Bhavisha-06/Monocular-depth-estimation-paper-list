@@ -16,7 +16,7 @@
 
 ## Models
 ### Metric-Monocular-depth-estimation
-   *InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields [[arXiv 2026] (https://arxiv.org/pdf/2601.03252)] [[]()]
+   * InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields [[arXiv 2026] (https://arxiv.org/pdf/2601.03252)] [[]()]
    * UniDepthV2: Universal Monocular Metric Depth Estimation Made Simpler [[IEEE TPAMI 2026](https://arxiv.org/pdf/2502.20110)] [[]()]
    * Depth Pro: Sharp Monocular Metric Depth in Less Than a Second [[ICLR 2025](https://arxiv.org/pdf/2410.02073)] [[]()]
    * MoGe-2: Accurate Monocular Geometry with Metric Scale and Sharp Details [[NeurIPS 2025](https://arxiv.org/pdf/2507.02546) [[]()]
