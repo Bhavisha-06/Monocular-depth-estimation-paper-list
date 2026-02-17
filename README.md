@@ -11,30 +11,30 @@ A personal list of papers and resources for monocular depth estimation (not comp
 - 
 ## Survey
    * Monocular Depth Estimation: A Thorough Review [[IEEE TPAMI 2024](https://www.computer.org/csdl/journal/tp/2024/04/10313067/1RUgtl8jBAI)] [[]()]
-   * Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey [[ACM Computing Surveys, 2024] (https://arxiv.org/pdf/2406.19675)] [[]()]
+   * Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey [[ACM Computing Surveys, 2024](https://arxiv.org/pdf/2406.19675)] [[]()]
    * Survey on Monocular Metric Depth Estimation [[arXiv 2025](https://arxiv.org/pdf/2501.11841)] [[]()]
 
 ## Models
 ### Metric-Monocular-depth-estimation
-   * InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields [[arXiv 2026] (https://arxiv.org/pdf/2601.03252)] [[]()]
+   * InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields [[arXiv 2026](https://arxiv.org/pdf/2601.03252)] [[]()]
    * UniDepthV2: Universal Monocular Metric Depth Estimation Made Simpler [[IEEE TPAMI 2026](https://arxiv.org/pdf/2502.20110)] [[]()]
    * Depth Pro: Sharp Monocular Metric Depth in Less Than a Second [[ICLR 2025](https://arxiv.org/pdf/2410.02073)] [[]()]
    * MoGe-2: Accurate Monocular Geometry with Metric Scale and Sharp Details [[NeurIPS 2025](https://arxiv.org/pdf/2507.02546) [[]()]
-   * MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision [[CVPR 2025] (https://arxiv.org/pdf/2410.19115)] [[]()]
+   * MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision [[CVPR 2025](https://arxiv.org/pdf/2410.19115)] [[]()]
      
      
    * Depth Anything V2 [[arXiv 2024](https://arxiv.org/pdf/2406.09414)] [[]()]
-   * UniDepth: Universal Monocular Metric Depth Estimation [[CVPR 2024] (https://arxiv.org/pdf/2403.18913)] [[]()]
+   * UniDepth: Universal Monocular Metric Depth Estimation [[CVPR 2024](https://arxiv.org/pdf/2403.18913)] [[]()]
    * DUSt3R: Geometric 3D Vision Made Easy [[CVPR 2024](https://arxiv.org/pdf/2312.14132)] [[]()]
-   * Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data [[CVPR 2024] (https://arxiv.org/pdf/2401.10891)] [[]()]
+   * Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data [[CVPR 2024](https://arxiv.org/pdf/2401.10891)] [[]()]
    * Metric3dv2 [[TPAMI 2024](https://arxiv.org/pdf/2404.15506)][[]()]
-   * PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation [[CVPR 2024] (https://arxiv.org/pdf/2312.02284)][[]()]
+   * PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation [[CVPR 2024](https://arxiv.org/pdf/2312.02284)][[]()]
 
      
    * ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth [[CVPR 2023](https://arxiv.org/pdf/2302.12288)] [[]()]
-   * Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image [[ICCV 2023] (https://arxiv.org/pdf/2307.10984)] [[]()]
+   * Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image [[ICCV 2023](https://arxiv.org/pdf/2307.10984)] [[]()]
    * iDisc: Internal Discretization for Monocular Depth Estimation [[CVPR 2023](https://arxiv.org/pdf/2304.06334)] [[]()]
-   * ZeroDepth: Towards Zero-Shot Scale-Aware Monocular Depth Estimation [[ICCV 2023] (https://arxiv.org/pdf/2306.17253)] [[]()]
+   * ZeroDepth: Towards Zero-Shot Scale-Aware Monocular Depth Estimation [[ICCV 2023](https://arxiv.org/pdf/2306.17253)] [[]()]
 
      
    * Vision Transformers for Dense Prediction (DPT) [[IEEE TPAMI 2021](https://arxiv.org/pdf/2103.13413)] [[]()]
@@ -45,7 +45,7 @@ A personal list of papers and resources for monocular depth estimation (not comp
 ### Relative-Monocular-depth-estimation
    * Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis [[CVPR 2024](https://arxiv.org/pdf/2505.09358)] [[]()]
    * G2-MonoDepth [[IEEE TPAMI 2024](https://arxiv.org/pdf/2310.15422)] [[]()]
-   * Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer (MiDaS) [[IEEE TPAMI 2020] (https://arxiv.org/pdf/1907.01341)] [[]()]
+   * Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer (MiDaS) [[IEEE TPAMI 2020](https://arxiv.org/pdf/1907.01341)] [[]()]
    * Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging [[CVPR 2021](https://arxiv.org/pdf/2105.14021)] []()
    
 ---
