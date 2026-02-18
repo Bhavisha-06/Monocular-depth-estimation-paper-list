@@ -20,37 +20,37 @@ A personal list of papers and resources for monocular depth estimation (not comp
 
 ## Models
 ### Metric-Monocular-depth-estimation
-   * InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields [[arXiv 2026](https://arxiv.org/pdf/2601.03252)] [[]()]
-   * UniDepthV2: Universal Monocular Metric Depth Estimation Made Simpler [[IEEE TPAMI 2026](https://arxiv.org/pdf/2502.20110)] [[]()]
-   * Depth Pro: Sharp Monocular Metric Depth in Less Than a Second [[ICLR 2025](https://arxiv.org/pdf/2410.02073)] [[]()]
+   * InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields [[arXiv 2026](https://arxiv.org/pdf/2601.03252)] [[repo](https://github.com/zju3dv/InfiniDepth)]
+   * UniDepthV2: Universal Monocular Metric Depth Estimation Made Simpler [[IEEE TPAMI 2026](https://arxiv.org/pdf/2502.20110)] [[repo](https://github.com/lpiccinelli-eth/UniDepth)]
+   * Depth Pro: Sharp Monocular Metric Depth in Less Than a Second [[ICLR 2025](https://arxiv.org/pdf/2410.02073)] [[repo](https://github.com/apple/ml-depth-pro)]
    * MoGe-2: Accurate Monocular Geometry with Metric Scale and Sharp Details [[NeurIPS 2025](https://arxiv.org/pdf/2507.02546) [[]()]
-   * MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision [[CVPR 2025](https://arxiv.org/pdf/2410.19115)] [[]()]
+   * MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision [[CVPR 2025](https://arxiv.org/pdf/2410.19115)] [[repo](https://github.com/microsoft/MoGe)]
      
      
-   * Depth Anything V2 [[NeurIPS 2024](https://arxiv.org/pdf/2406.09414)] [[]()]
-   * UniDepth: Universal Monocular Metric Depth Estimation [[CVPR 2024](https://arxiv.org/pdf/2403.18913)] [[]()]
-   * DUSt3R: Geometric 3D Vision Made Easy [[CVPR 2024](https://arxiv.org/pdf/2312.14132)] [[]()]
-   * Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data [[CVPR 2024](https://arxiv.org/pdf/2401.10891)] [[]()]
-   * Metric3dv2 [[TPAMI 2024](https://arxiv.org/pdf/2404.15506)][[]()]
-   * PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation [[CVPR 2024](https://arxiv.org/pdf/2312.02284)][[]()]
+   * Depth Anything V2 [[NeurIPS 2024](https://arxiv.org/pdf/2406.09414)] [[repo](https://github.com/DepthAnything/Depth-Anything-V2)]
+   * UniDepth: Universal Monocular Metric Depth Estimation [[CVPR 2024](https://arxiv.org/pdf/2403.18913)] [[repo](https://github.com/lpiccinelli-eth/UniDepth/tree/main)]
+   * DUSt3R: Geometric 3D Vision Made Easy [[CVPR 2024](https://arxiv.org/pdf/2312.14132)] [[repo](https://github.com/naver/dust3r)]
+   * Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data [[CVPR 2024](https://arxiv.org/pdf/2401.10891)] [[repo](https://github.com/LiheYoung/Depth-Anything)]
+   * Metric3dv2 [[TPAMI 2024](https://arxiv.org/pdf/2404.15506)][[repo](https://github.com/YvanYin/Metric3D)]
+   * PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation [[CVPR 2024](https://arxiv.org/pdf/2312.02284)][[repo](https://github.com/zhyever/PatchFusion)]
 
      
-   * ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth [[CVPR 2023](https://arxiv.org/pdf/2302.12288)] [[]()]
-   * Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image [[ICCV 2023](https://arxiv.org/pdf/2307.10984)] [[]()]
-   * iDisc: Internal Discretization for Monocular Depth Estimation [[CVPR 2023](https://arxiv.org/pdf/2304.06334)] [[]()]
-   * ZeroDepth: Towards Zero-Shot Scale-Aware Monocular Depth Estimation [[ICCV 2023](https://arxiv.org/pdf/2306.17253)] [[]()]
+   * ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth [[CVPR 2023](https://arxiv.org/pdf/2302.12288)] [[rep](https://github.com/isl-org/ZoeDepth)]
+   * Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image [[ICCV 2023](https://arxiv.org/pdf/2307.10984)] [[repo](https://github.com/YvanYin/Metric3D)]
+   * iDisc: Internal Discretization for Monocular Depth Estimation [[CVPR 2023](https://arxiv.org/pdf/2304.06334)] [[repo](https://github.com/SysCV/idisc)]
+   * ZeroDepth: Towards Zero-Shot Scale-Aware Monocular Depth Estimation [[ICCV 2023](https://arxiv.org/pdf/2306.17253)] [[repo](https://github.com/tri-ml/vidar)]
 
      
-   * Vision Transformers for Dense Prediction (DPT) [[IEEE TPAMI 2021](https://arxiv.org/pdf/2103.13413)] [[]()]
-   * AdaBins: Depth Estimation Using Adaptive Bins [[CVPR 2021](https://arxiv.org/pdf/2011.14141)] [[]()]
+   * Vision Transformers for Dense Prediction (DPT) [[IEEE TPAMI 2021](https://arxiv.org/pdf/2103.13413)] [[repo](https://github.com/isl-org/DPT)]
+   * AdaBins: Depth Estimation Using Adaptive Bins [[CVPR 2021](https://arxiv.org/pdf/2011.14141)] [[repo](https://github.com/shariqfarooq123/AdaBins)]
 
      
 
 ### Relative-Monocular-depth-estimation
-   * Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis [[CVPR 2024](https://arxiv.org/pdf/2505.09358)] [[]()]
-   * G2-MonoDepth [[IEEE TPAMI 2024](https://arxiv.org/pdf/2310.15422)] [[]()]
-   * Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer (MiDaS) [[IEEE TPAMI 2020](https://arxiv.org/pdf/1907.01341)] [[]()]
-   * Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging [[CVPR 2021](https://arxiv.org/pdf/2105.14021)] []()
+   * Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis [[CVPR 2024](https://arxiv.org/pdf/2505.09358)] [[repo](https://github.com/prs-eth/Marigold)]
+   * G2-MonoDepth [[IEEE TPAMI 2024](https://arxiv.org/pdf/2310.15422)] [[repo](https://github.com/Wang-xjtu/G2-MonoDepth)]
+   * Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer (MiDaS) [[IEEE TPAMI 2020](https://arxiv.org/pdf/1907.01341)] [[repo](https://github.com/isl-org/MiDaS)]
+   * Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging [[CVPR 2021](https://arxiv.org/pdf/2105.14021)] [repo](https://github.com/compphoto/BoostingMonocularDepth)
    
 ---
 
