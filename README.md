@@ -8,11 +8,15 @@ A personal list of papers and resources for monocular depth estimation (not comp
    - [Relative Monocular depth estimation](#Relative-Monocular-depth-estimation)
 - [Datasets](#datasets)
 - [Challenges and workshops](#challenges-and-workshops)
-- 
+
+---
+
 ## Survey
    * Monocular Depth Estimation: A Thorough Review [[IEEE TPAMI 2024](https://www.computer.org/csdl/journal/tp/2024/04/10313067/1RUgtl8jBAI)] [[]()]
    * Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey [[ACM Computing Surveys, 2024](https://arxiv.org/pdf/2406.19675)] [[]()]
    * Survey on Monocular Metric Depth Estimation [[arXiv 2025](https://arxiv.org/pdf/2501.11841)] [[]()]
+
+---
 
 ## Models
 ### Metric-Monocular-depth-estimation
@@ -51,9 +55,8 @@ A personal list of papers and resources for monocular depth estimation (not comp
 ---
 
 ## Datasets
-### Monocular
-#### Real
-##### Indoor
+### Monocular-Real-Indoor
+
   * [ARKitScenes](https://github.com/apple/ARKitScenes?tab=readme-ov-file) [[NeurIPS 2021](https://openreview.net/pdf?id=tjZjv_qh_CE)]
   * [iBims-v1](https://www.kaggle.com/datasets/patiencechewyeecheah/ibims-1) [[ECCV 2018](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Koch_Evaluation_of_CNN-based_Single-Image_Depth_Estimation_Methods_ECCVW_2018_paper.pdf)]
   * [ScanNet](http://www.scan-net.org/) [[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.pdf)]
@@ -63,19 +66,23 @@ A personal list of papers and resources for monocular depth estimation (not comp
   * [Taskonomy](http://taskonomy.stanford.edu/) [[CVPR 2018](http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf)]
 
 
-##### Indoor-and-Outdoor
+### Monocular-Real-Indoor-and-Outdoor
   * [DIODE: A Dense Indoor and Outdoor DEpth Dataset](https://diode-dataset.org/) [[CoRR 2019](https://arxiv.org/pdf/1908.00463)]
     
-##### Outdoor
+### Monocular-Real-Outdoor
 
-#### Synthetic
-##### Indoor
-##### Outdoor
+### Monoular-Synthetic-Indoor
 
-### Stereo
- #### Real
- ##### Indoor
+### Monoular-Synthetic-Outdoor
+
+### Stereo-Real-Indoor
    * [Booster Dataset](https://cvlab-unibo.github.io/booster-web/) [[CVPR 2022](https://arxiv.org/pdf/2206.04671)]
+
+### Stereo-Real-Outdoor
+
+### Stereo-Synthetic-Indoor
+
+### Stereo-Synthetic-Outdoor
 
 ---
 
