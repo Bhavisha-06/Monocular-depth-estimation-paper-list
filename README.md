@@ -7,6 +7,7 @@ A personal list of papers and resources for monocular depth estimation (not comp
    - [Metric Monocular depth estimation](#Metric-Monocular-depth-estimation)
    - [Relative Monocular depth estimation](#Relative-Monocular-depth-estimation)
 - [Datasets](#datasets)
+- [Useful Inference codes](#inference-codes)
 - [Challenges and workshops](#challenges-and-workshops)
 
 ---
@@ -86,6 +87,20 @@ A detailed list can be found [here](https://docs.google.com/spreadsheets/d/1ruNh
 ### Stereo-Synthetic-Outdoor
 
 ---
+## Inference Codes
+  * [DepthPro](https://colab.research.google.com/drive/1HpQ6kp6cSnxWqE-UOnMoSxTHnhYS3hvo?usp=sharing)
+  * [DepthAnythingv2](https://colab.research.google.com/drive/1Jqx0q8ohJbeu_JxtkQ57JlKIWBF4ExL3?usp=sharing)
+  * [Unik3D](https://colab.research.google.com/drive/1K-3pGWZyiNOdExsIy61cohdf170JqFiS?usp=sharing)
+  * Follow this publicly available keggle notebook for [Unidepthv2](https://www.kaggle.com/code/patiencechewyeecheah/monocular-depth-estimation-guide-for-beginners)
+  * [FoundationStereo](https://www.kaggle.com/code/bhavishaa/foundation-stereo-0-1)
+  * [Metric3Dv2](https://colab.research.google.com/drive/11F5mEATN87XHAtbGMih4PBtwGExMhw69?usp=sharing)
+
+---
+## List of loss functions used
+
+---
+## Types of Architectures used broadly for training Monocular Depth Estimation models
+  
 
 ## Challenges-and-workshops
 
