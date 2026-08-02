@@ -55,6 +55,7 @@ A personal list of papers and resources for monocular depth estimation (not comp
 ---
 
 ## Datasets
+A detailed list can be found [here](https://docs.google.com/spreadsheets/d/1ruNhqJqgFL974l9UJw37aO56JrptzmggZaRrpSQ9yng/edit?usp=sharing)
 ### Monocular-Real-Indoor
 
   * [ARKitScenes](https://github.com/apple/ARKitScenes?tab=readme-ov-file) [[NeurIPS 2021](https://openreview.net/pdf?id=tjZjv_qh_CE)]
