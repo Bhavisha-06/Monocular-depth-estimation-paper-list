@@ -7,7 +7,7 @@ A personal list of papers and resources for monocular depth estimation (not comp
    - [Metric Monocular depth estimation](#Metric-Monocular-depth-estimation)
    - [Relative Monocular depth estimation](#Relative-Monocular-depth-estimation)
 - [Datasets](#datasets)
-- [Useful Inference codes](#inference-codes)
+- [Inference codes](#inference-codes)
 - [Challenges and workshops](#challenges-and-workshops)
 
 ---
