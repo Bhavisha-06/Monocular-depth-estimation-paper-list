@@ -8,6 +8,9 @@ A personal list of papers and resources for monocular depth estimation (not comp
    - [Relative Monocular depth estimation](#Relative-Monocular-depth-estimation)
 - [Datasets](#datasets)
 - [Inference codes](#inference-codes)
+- [Most-used loss functions](#loss-functions)
+   - [Regression Based loss functions](#regression-based)
+   - [Geometry Based loss functions](
 - [Challenges and workshops](#challenges-and-workshops)
 
 ---
